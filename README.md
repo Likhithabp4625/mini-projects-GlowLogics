@@ -1,1 +1,1 @@
-# mini-projects-GlowLogics
+# projects-GlowLogics
